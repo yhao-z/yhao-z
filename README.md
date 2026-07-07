@@ -30,41 +30,57 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/yhao-z/Learned-Low-Rank"><b>Learned Low Rank Unfolding network</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/yhao-z/Learned-Low-Rank"/></td>
+      <td><a href="https://github.com/yhao-z/HIT-PowerPoint"><b>HIT-PowerPoint</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/yhao-z/HIT-PowerPoint?style=flat-square"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/yhao-z/HIT-PowerPoint?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/yhao-z/HIT-PowerPoint?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yhao-z/HIT-PowerPoint?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/yhao-z/Learned-Low-Rank"><b>Learned Low-Rank Prior (LLR)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/yhao-z/Learned-Low-Rank?style=flat-square"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/yhao-z/Learned-Low-Rank?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/yhao-z/Learned-Low-Rank?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yhao-z/Learned-Low-Rank?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/yhao-z/TMNN"><b>TMNN</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/yhao-z/TMNN"/></td>
+      <td><a href="https://github.com/yhao-z/TMNN"><b>TMNN (Tensor Nuclear Norm)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/yhao-z/TMNN?style=flat-square"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/yhao-z/TMNN?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/yhao-z/TMNN?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yhao-z/TMNN?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/yhao-z/dMRI-utils"><b>dMRI-utils</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/yhao-z/dMRI-utils"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/yhao-z/dMRI-utils?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/yhao-z/dMRI-utils?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yhao-z/dMRI-utils?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/yhao-z/UnrollingNets-dMRI"><b>UnrollingNets-dMRI</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/yhao-z/UnrollingNets-dMRI?style=flat-square"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/yhao-z/UnrollingNets-dMRI?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/yhao-z/UnrollingNets-dMRI?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yhao-z/UnrollingNets-dMRI?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/yhao-z/SVD-inv"><b>SVD-inv (Diff. SVD)</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/yhao-z/SVD-inv?style=flat-square"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/yhao-z/SVD-inv?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/yhao-z/SVD-inv?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yhao-z/SVD-inv?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
 <h3>My latest pubs</h3>
 <ul>
-  <li><a href="https://ieeexplore.ieee.org/abstract/document/9761409"><b> Dynamic Cardiac MRI Reconstruction Using Combined Tensor Nuclear Norm and Casorati Matrix Nuclear Norm Regularizations</b></a><br/><i>A novel dynamic MR image reconstruction method that incorporates the matrix and tensor nuclear norm (based on tensor decomposition named t-SVD), denoted as TMNN, the code is opened in my github.</i></li>
-  <li><a href="https://arxiv.org/abs/2209.03832"><b>T2LR-Net: An Unrolling Reconstruction Network Learning Transformed Tensor Low-Rank prior for Dynamic MR Imaging</b></a><br/><i>A learned tensor low rank method, a deep unfolding neural network exactly, utilizing convolutional neural network to learn a transformed domain to further exploit the low-rank property of dynamic MR images. </i></li>
+  <li><a href="https://doi.org/10.1016/j.mri.2025.110337"><b>JotlasNet: Joint tensor low-rank and attention-based sparse unrolling network for accelerating dynamic MRI</b></a><br/><i>Y. Zhang, H. Gui, N. Yang, Y. Hu. Magnetic Resonance Imaging, 118, 110337, 2025.</i></li>
+  <li><a href="https://arxiv.org/abs/2411.14141"><b>Differentiable SVD based on Moore-Penrose Pseudoinverse for Inverse Imaging Problems</b></a><br/><i>Y. Zhang, Y. Hu. arXiv preprint arXiv:2411.14141, 2024.</i></li>
+  <li><a href="https://doi.org/10.1016/j.compbiomed.2024.108034"><b>T2LR-Net: An unrolling network learning transformed tensor low-rank prior for dynamic MR image reconstruction</b></a><br/><i>Y. Zhang, P. Li, Y. Hu. Computers in Biology and Medicine, 170, 108034, 2024.</i></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10635375"><b>Deep image-pass filter for accelerating dynamic MRI</b></a><br/><i>Y. Zhang, C. Zhou, Y. Hu, Y. Hu. IEEE ISBI, 1–4, 2024.</i></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/10635267"><b>Alternating Unrolling Network Of Jointly Low-Rank And Sparse Tensor For Accelerating Dynamic MRI</b></a><br/><i>Y. Zhang, Y. Hu, C. Zhou, Y. Hu. IEEE ISBI, 1–4, 2024.</i></li>
 </ul>
 <h3>Lovely Harbin</h3>
 <p><img width="500" src="hrb.jpg"/></p>
 <p>Above is the Harbin I've seen on 2022/09/15<br/>That night I almost lost my cell phone and Y left Harbin tomorrow.</p>
 <h3>Where to find me</h3>
-<p><a href="https://yhao-z.github.io/" target="_blank"><img alt="page" src="https://img.shields.io/badge/-my page-blue?&style=for-the-badge&logoColor=white" /></a> <a href="https://scholar.google.com/citations?user=FV52htsAAAAJ" target="_blank"><img alt="googlescholar" src="https://img.shields.io/badge/-Google Scholar-brightgreen?&style=for-the-badge&logo=Google Scholar&logoColor=white" /></a>  <a href="https://github.com/yhao-z" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<p><a href="https://yhao-z.github.io/" target="_blank"><img alt="page" src="https://img.shields.io/badge/-my%20page-blue?&style=for-the-badge&logoColor=white" /></a> <a href="https://scholar.google.com/citations?user=FV52htsAAAAJ" target="_blank"><img alt="googlescholar" src="https://img.shields.io/badge/-Google%20Scholar-brightgreen?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>  <a href="https://github.com/yhao-z" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
 
 ------------
 <!-- <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 24 October, 06:52 CEST<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p> -->
-
