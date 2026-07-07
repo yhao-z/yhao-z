@@ -37,13 +37,6 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yhao-z/HIT-PowerPoint?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/yhao-z/Learned-Low-Rank"><b>Learned Low-Rank Prior (LLR)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/yhao-z/Learned-Low-Rank?style=flat-square"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/yhao-z/Learned-Low-Rank?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/yhao-z/Learned-Low-Rank?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/yhao-z/Learned-Low-Rank?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/yhao-z/TMNN"><b>TMNN (Tensor Nuclear Norm)</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/yhao-z/TMNN?style=flat-square"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/yhao-z/TMNN?style=flat-square&labelColor=343b41"/></td>
